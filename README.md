@@ -1,9 +1,13 @@
 # جلسه اول
-## نمایش ساعت
+## نمایش ساعت , سلام 
 ```python
 Import datetime
 datetime.datetime.now()
 ```
+
+```python
+print("Hello, I'm Python!")
+````
 
 # نسخه پایتون در ترمینال
 ```
