@@ -2,8 +2,8 @@
 ## نمایش ساعت , سلام 
 ```python
 import datetime
-datetime.datetime.now()
-// hassas be a A
+print(datetime.datetime.now())
+// dastorat hasas be horof kochak va bozorg
 ```
 
 ```python
@@ -13,6 +13,7 @@ print("Hello, I'm Python!")
 # نسخه پایتون در ترمینال
 ```
 Where.exe python
+or
 Which python    :dont work
 ```
  # خارج شدن از ترمینال 
