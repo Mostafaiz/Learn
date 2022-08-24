@@ -14,3 +14,7 @@ print("Hello, I'm Python!")
 Where.exe python
 Which python
 ```
+#خارج شدن از ترمینال 
+```
+ctrl+c or ctrl+z
+```
