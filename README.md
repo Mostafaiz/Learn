@@ -20,3 +20,9 @@ Which python    :dont work
 ```
 ctrl+c or ctrl+z
 ```
+
+در پوشه   libکتابخانه ها
+کتابخانه های خارجی پوشه  site-packages
+https://pypi.org/
+
+در سایت https://pypi.org/project/requests/
