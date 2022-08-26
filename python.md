@@ -24,12 +24,18 @@ edit environment ... محل تغییر مسیر ها
 
 #IDE
 Integrated development environment 
+
 محیط توسعه یکپارچه
 
 #IDLE
 Integrated Development and Learning Environment
 
-بحث لرنینگ 
+بحث لرنینگ
+
+Interpreter
+
+تفسیر کننده 
+پایتون زبان مفسری هست 
 
 # پیپ یکی ابزار های پایتون برای نصب پکیج ها و کتابخونه ها  
 ```
