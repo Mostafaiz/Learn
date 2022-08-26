@@ -19,6 +19,17 @@ or
 python
 ```
 
+edit environment ... محل تغییر مسیر ها 
+
+
+#IDE
+Integrated development environment 
+محیط توسعه یکپارچه
+
+#IDLE
+Integrated Development and Learning Environment
+بحث لرنینگ 
+
 # پیپ یکی ابزار های پایتون برای نصب پکیج ها و کتابخونه ها  
 ```
 in cmd : 
