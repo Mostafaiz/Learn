@@ -28,6 +28,7 @@ Integrated development environment
 
 #IDLE
 Integrated Development and Learning Environment
+
 بحث لرنینگ 
 
 # پیپ یکی ابزار های پایتون برای نصب پکیج ها و کتابخونه ها  
