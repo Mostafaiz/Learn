@@ -15,6 +15,14 @@ print("Hello, I'm Python!")
 Where.exe python
 or
 Which python    :dont work
+or
+python
+```
+
+# پیپ یکی ابزار های پایتون برای نصب پکیج ها و کتابخونه ها  
+```
+in cmd : 
+pip
 ```
  # خارج شدن از ترمینال 
 ```
