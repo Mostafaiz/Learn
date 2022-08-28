@@ -46,9 +46,14 @@ pip
 ```
 ctrl+c or ctrl+z
 ```
-
+# location of library
 در پوشه   libکتابخانه ها
 کتابخانه های خارجی پوشه  site-packages
 https://pypi.org/
 
-در سایت https://pypi.org/project/requests/
+در سایت
+https://pypi.org/project/requests/
+
+#abzar Linter pylint :
+
+
