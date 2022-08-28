@@ -46,14 +46,19 @@ pip
 ```
 ctrl+c or ctrl+z
 ```
-# location of library
+
+#محل ذخیره شدن کتابخانه ها 
+
 در پوشه   libکتابخانه ها
 کتابخانه های خارجی پوشه  site-packages
 https://pypi.org/
 
-در سایت
-https://pypi.org/project/requests/
+در سایت https://pypi.org/project/requests/
 
-#abzar Linter pylint :
+# abzar linter pylint
+linter ha rahnamaye cod zani ma hastan , marof tarin Pylint hast va Pycodestyle
 
+# Entekhab Enterpereter dar vs code 
+ba CTRL+SHIFT+P -> search "select interpreter"
 
+ 
