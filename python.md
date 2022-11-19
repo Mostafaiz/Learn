@@ -10,12 +10,16 @@ print(datetime.datetime.now())
 print("Hello, I'm Python!")
 ````
 
-# نسخه پایتون در ترمینال
+# نسخه و مکان پایتون در ترمینال
 ```
 Where.exe python
+
 or
-Which python    :dont work
+
+py
+
 or
+
 python
 ```
 
