@@ -41,6 +41,16 @@ Interpreter
 تفسیر کننده 
 پایتون زبان مفسری هست 
 
+
+```
+x=8+7\
+  +7
+
+x=8+7+7  
+```
+
+do satr bala yeki hastan 
+PEP 8 : rahnamaye tamiz neveshtan php 
 # پیپ یکی ابزار های پایتون برای نصب پکیج ها و کتابخونه ها  
 ```
 in cmd : 
