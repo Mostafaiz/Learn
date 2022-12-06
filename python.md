@@ -54,7 +54,9 @@ PEP 8 : rahnamaye tamiz neveshtan php
 # پیپ یکی ابزار های پایتون برای نصب پکیج ها و کتابخونه ها  
 ```
 in cmd : 
-pip
+py -m pip install --upgrade pip
+
+py -m pip --version
 ```
  # خارج شدن از ترمینال 
 ```
