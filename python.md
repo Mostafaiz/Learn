@@ -81,4 +81,12 @@ linter ha rahnamaye cod zani ma hastan , marof tarin Pylint hast va Pycodestyle
 # Entekhab Enterpereter dar vs code 
 ba CTRL+SHIFT+P -> search "select interpreter"
 
- 
+
+```
+print(2,2,  sep="_")
+# output: 2_2
+
+print(2,2, end="\n")
+# =
+print(2,2, end="")
+```
